@@ -6,4 +6,4 @@
 Hello git!
 
 abcdef
-ブランチdev-1を追加
+ブランチdev-1を修正
