@@ -4,4 +4,3 @@
 こんにちは
 
 Hello git!
-abc
